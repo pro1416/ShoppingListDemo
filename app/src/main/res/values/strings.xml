@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shopping List MVVM</string>
+    <string name="delete">delete</string>
+    <string name="add">add</string>
+    <string name="subtract">subtract</string>
+    <string name="add_item">Add Item</string>
+    <string name="name">Name</string>
+    <string name="amount">Amount</string>
+    <string name="cancel">Cancel</string>
+</resources>
